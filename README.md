@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Mis Experienzas en mi RD  Tokyo Revengers](https://github.com/kalesitow/kalesitow/assets/119758129/dffdc07e-ba54-4895-a4bf-d6268449624b)
 
 <!--
 **kalesitow/kalesitow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
