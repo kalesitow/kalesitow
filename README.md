@@ -36,11 +36,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinDavidRodriguezRiveros&layout=compact&theme=tokyonight)
 
----edawdawdawdawc
 
 ## ╰☆☆ Contacto ☆☆╮
-dwadwadaw
+
 - **Correo:** code.kevindrr@gmail.com  
 - **LinkedIn:** [linkedin.com/in/kevin](https://www.linkedin.com/in/kdrr)  
-acacacaw
 
