@@ -1,11 +1,11 @@
 
 <img src="./images/gato.jpg" width="488" />
 
-* Name: **Kevin David Rodríguez Riveros**
+* Name: **Kevin Rodríguez Riveros**
 
 * Residing in: **Bogotá, Colombia**
 
-* Field of Study: [**Ingeniería de Sistemas**](https://www.udistrital.edu.co/) *(8vo semestre)*
+* Field of Study: [**Ingeniería de Sistemas**] *(8vo semestre)*
 
 * Proficient in: **Sistemas de Información**, **ERP**, **DSS**
 
